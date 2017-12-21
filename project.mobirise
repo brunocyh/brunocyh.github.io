@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bruno Dev Website",
-    "currentPage": "contact.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -161,7 +161,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -672,7 +672,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -722,7 +722,7 @@
                 "showTitle": true,
                 "title": "Year Long Thesis<br>",
                 "contentAlign": "left",
-                "text": "Topic: Predicting student's academic performance in a Machine Learning Appraoch. The project blahhhhhhhhhh<br>blahhhhhhhhhhblahh<br>hhhhhhhhblahhhhhhhhhhblahhhhhhhhh<br>hblahhhhhhhhhh<br>blahhhhhhhhhh",
+                "text": "Topic: Predicting student's academic performance in a Machine Learning Appraoch. <br><br>I worked with serveral academics from the Institute for Teaching and Learning Innovation (ITaLI) at University of Queensland to develop a student dashboard. My individual goal is to build up a systematic student score prediction algorithm  from scratch, with the application of Machine Learning techniques. The team has to meet regularly in order to keep our working progress on track, thus, professional communications and presentations were required. Eventually I have to deliver a well documented thesis to report on my significant findings, algorithm development process and reasonings. I obtained substantial amount of data mining knowledge and practical experiences in this project.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
@@ -734,7 +734,7 @@
                 "showTitle": true,
                 "title": "Final Year Project",
                 "contentAlign": "left",
-                "text": "blahb lahb blahb labh ablaab bhalbha blha blahblahb lahb blahb labh ablaab bhalbha blha blah blahb lahb blahb labh ablaab bhalbha blha blah blahb lahb blahb labh ablaab bhalbha blha blah blahb lahb blahb labh ablaab bhalbha blha blah &nbsp;",
+                "text": "My final year project involves working in 2 teams over the year to build up a working IT product to our clients (real client). My first semester worked with scientist from Queensland Herbarium (Mangrove Monitor App, proposal) and second semester worked with safety coordinators from UQ OHS division (Workplace Inspection Portal, build). The year long project equipe me with experience in professional client communication and actual product developement.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
@@ -746,7 +746,7 @@
                 "showTitle": true,
                 "title": "Data Mining Project",
                 "contentAlign": "left",
-                "text": "blahb lahb blahb labh ablaab bhalbha blha blahblahb lahb blahb labh ablaab bhalbha blha blahblahb lahb blahb labh ablaab bhalbha blha blahblahb lahb blahb labh ablaab bhalbha blha blahblahb lahb blahb labh ablaab bhalbha blha blahblahb lahb blahb labh ablaab bhalbha blha blahblahb lahb blahb labh ablaab bhalbha blha blahblahb lahb blahb labh ablaab bhalbha blha blah        ",
+                "text": "This is an interesting project done throughout the last semester in Data Mining course. In a small team, we gained insight into a large dataset (US Census data in 1996, with over 300,000 samples in total). After the semester we have been selected to present our findings in the lecture. I am responsible for discovering the interesting association rules in this dataset; Unexpected discoveries such as gender inequality in terms of high income, and some other rules are found. I learned techniques in tunning parameters and selecting appropriate evaluation statistics in this project.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               }
@@ -763,7 +763,8 @@
               "text-align": "left"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "15px"
             }
           }
         },
@@ -854,7 +855,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -1138,7 +1139,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -1353,7 +1354,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -1525,7 +1526,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -1693,7 +1694,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -1812,7 +1813,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -1980,7 +1981,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -2167,7 +2168,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"
@@ -2331,7 +2332,7 @@
             }
           },
           "text1": "<br>",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com",
+          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn: in progress",
           "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
           "_tags": [
             "Theme"

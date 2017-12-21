@@ -106,6 +106,7 @@
 }
 #slider-l P {
   text-align: left;
+  font-size: 15px;
 }
 #dropdown-menu-2btn-c .hide-buttons [data-button] {
   display: none !important;
