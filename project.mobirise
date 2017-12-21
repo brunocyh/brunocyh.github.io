@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bruno Dev Website",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -51,7 +51,7 @@
           },
           "title": "Bruno Cheung<br>",
           "text": "<i>Passionate in&nbsp;Applied Machine Learning &amp;&amp;<br>Data Science</i>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Huh? Bruno?</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"projects.html\" data-toolbar=\"-mbrBtnMove\">Project Showcase</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Who is Bruno?</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"projects.html\" data-toolbar=\"-mbrBtnMove\">Project Showcase</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1291,9 +1291,9 @@
           "title": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Leave a Message</a>",
           "form": {
-            "action": "",
+            "action": "brunocyh@gmail.com",
             "alerts": {
-              "success": "Bruno will reply you as soo!"
+              "success": "Thanks for your message! I will reply you soon."
             },
             "fields": {
               "name": {
