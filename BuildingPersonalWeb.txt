@@ -1,0 +1,18 @@
+---- Entertaining ----
+- connection to server //
+- create db //
+- design of the website (all img) //
+- post blog
+- show blog
+
+
+----- photo required -----
+- home page
+- about bruno
+- contact bruno
+
+---- website architechture solution ----
+- problem: github no db privacy / 000 too slow in speed
+- solution: html presentation from github, db stored in 000
+- db and php hosted in 000webhostapp (fetching data)
+- articles/info fetch from php -> ajax shown in my devsite
