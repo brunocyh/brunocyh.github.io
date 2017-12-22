@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bruno Dev Website",
-    "currentPage": "projects.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -37,7 +37,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg-800x533.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-7147-1984x1496.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -274,8 +274,8 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/me2-954x564.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/me3-720x488.jpg",
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -454,10 +454,10 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#000000"
+              "color": "#cccccc"
             }
           },
           "_params": {
@@ -466,16 +466,16 @@
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-800x533.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -537,7 +537,7 @@
             }
           },
           "title1": "Individual Thesis Research (2017)&nbsp;",
-          "caption1": "<p></p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic: Building Prediction Model to Forecast Student's Academic Performance: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A machine learning approach&nbsp;<br></p><p>- &nbsp; &nbsp; Working with academics from the Institute for Teaching and Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Innovation (ITaLI) at University of Queensland&nbsp;</p><p>-\t&nbsp;&nbsp;&nbsp;&nbsp;Building up a systematic student score prediction algorithm  from scratch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(prototype stage)\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Involved use of machine learning techniques, statistics and domain knowledge &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understanding (learning analytics)\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Working individually with academics and reporting progress to small team of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;academics who works in developing other aspects of the student dashboard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;system\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Dr Hassan Khosravi&nbsp;<br></p><p></p>",
+          "caption1": "<p></p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Topic: Building Prediction Model to Forecast Student's Academic Performance: A machine learning approach&nbsp;<br></p><p>- &nbsp; &nbsp; Working with academics from the Institute for Teaching and Learning Innovation (ITaLI) at University of Queensland&nbsp;</p><p>-\t&nbsp;&nbsp;&nbsp;&nbsp;Building up a systematic student score prediction algorithm  from scratch (prototype stage)\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Involved use of machine learning techniques, statistics and domain knowledge understanding (learning analytics)\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Working individually with academics and reporting progress to small team of academics who works in developing other aspects of the student dashboard system\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Dr Hassan Khosravi&nbsp;<br></p><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -557,7 +557,7 @@
             }
           },
           "title2": "Final Year Project (with client) (2017)",
-          "caption2": "<p>-\t&nbsp;&nbsp;&nbsp;&nbsp;Professional communication with client to obtain software requirement\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Working with team to complete varies milestones in software development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stages\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;SCRUM teamwork framework\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;First semester: Mangrove monitoring APP (Proposal / Prototype)\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Second semester: Workplace Inspection Portal (Building)&nbsp;<br></p>",
+          "caption2": "<p>-\t&nbsp;&nbsp;&nbsp;&nbsp;Professional communication with client to obtain software requirement\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Working with team to complete varies milestones in software development stages\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;SCRUM teamwork framework\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;First semester: Mangrove monitoring APP (Proposal / Prototype)\n<br>-\t&nbsp;&nbsp;&nbsp;&nbsp;Second semester: Workplace Inspection Portal (Building)&nbsp;<br></p>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -715,8 +715,8 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "images/slide1.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2-732x784.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -727,20 +727,20 @@
                 "overlay": true
               },
               {
-                "image": "images/slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-808x750.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "Data Mining Project (2017)",
                 "contentAlign": "left",
-                "text": "This is an interesting project done throughout the last semester in Data Mining course. Within a small team, we have to select a dataset by ourselves then apply data mining techniques to gain insights into this dataset (we have chosen the US Census dataset in 1996, with over 300,000 samples in total). Among other teams, we were one of the few selected teams to present our findings in the lecture. I am responsible for applying unsupervised association rules mining to discover the interesting hidden patterns in this dataset; unexpected discoveries such as gender inequality in terms of high income, and some other rules were found. I learned techniques in tunning parameters and selecting appropriate evaluation statistics in this project.",
+                "text": "This is an interesting project done throughout the last semester in Data Mining course. Within a small team, we have to select a dataset by ourselves then apply data mining techniques to gain insights into this dataset (we have chosen the US Census dataset in 1996, with about 300,000 samples in total). Among other teams, we were one of the few selected teams to present our findings in the lecture. I am responsible for applying unsupervised association rules mining to discover the interesting hidden patterns in this dataset; unexpected discoveries such as gender inequality in terms of high income, and some other rules were found. I learned techniques in tunning parameters and selecting appropriate evaluation statistics in this project.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
               {
-                "image": "images/slide3.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/3-502x416.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -958,7 +958,7 @@
             }
           },
           "title2": "Machine Learning",
-          "caption2": "Focus mainly on my articles on Machine Learning techniques.",
+          "caption2": "Machine learning is my favourite topic in AI, whenever something interesting is going on I will blog it down.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media3": {
             "image": {
@@ -980,8 +980,8 @@
               "size": 0
             }
           },
-          "title3": "Life",
-          "caption3": "Life is short, why not enjoy and blog it? My personal view to this world.",
+          "title3": "Life and Living",
+          "caption3": "Life is short, why not enjoy it? Try to appreciate this world from different perspectives.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media4": {
             "image": {
@@ -1004,7 +1004,7 @@
             }
           },
           "title4": "Other",
-          "caption4": "Something that pops out from my mind randomly :)",
+          "caption4": "Some random thoughts pop out from my mind.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media5": {
             "image": {
@@ -1195,7 +1195,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-7074-1980x1312.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1209,7 +1209,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Contact Me!",
-          "text": "<p>I hope you enjoy reading my blogs and hopefully my personal views can be helpful to you. If you are keen to contact me you are very welcome to do so via email, I will be responding as soon as posible.&nbsp;</p>",
+          "text": "<p>I hope you enjoy reading my blogs and hopefully my personal views can inspire you in some way. If you are keen to contact me you are very welcome to do so via email, I will be responding as soon as posible.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
