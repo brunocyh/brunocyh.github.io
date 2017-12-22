@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bruno Dev Website",
-    "currentPage": "blog.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -91,7 +91,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"https://wordpress.com/post/brunocyhgithub.wordpress.com\">Write Article</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -210,7 +210,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"https://wordpress.com/post/brunocyhgithub.wordpress.com\">Write Article</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -785,7 +785,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"https://wordpress.com/post/brunocyhgithub.wordpress.com\">Write Article</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1069,7 +1069,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"https://wordpress.com/post/brunocyhgithub.wordpress.com\">Write Article</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1235,7 +1235,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"https://wordpress.com/post/brunocyhgithub.wordpress.com\">Write Article</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1379,633 +1379,6 @@
         }
       ]
     },
-    "login.html": {
-      "settings": {
-        "meta_descr": "Web Page Maker Description",
-        "title": "Login Page",
-        "order": 7
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showName": true,
-            "showBio": true,
-            "count": "2",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "header": "Login",
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "Login details\n<div>\n</div><div>\n</div><div>\n</div><div>User name: + input box\n</div><div>\n</div><div>Password: + input box\n</div><div>\n</div><div>\n</div><div>\n</div><div>+ submit button</div>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": ""
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-1i",
-          "testimonial": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "Login details\n<div>\n</div><div>\n</div><div>\n</div><div>User name: + input box\n</div><div>\n</div><div>Password: + input box\n</div><div>\n</div><div>\n</div><div>\n</div><div>+ submit button</div>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": ""
-            }
-          ]
-        },
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#000000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/iconsm-1-128x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bruno's Dev Website</a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-t"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/footericon-265x125.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn:<a href=\"https://www.linkedin.com/in/yan-ham-cheung/\"> Yan Ham Cheung</a>",
-          "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "font-size": "14px",
-              "color": "#000000"
-            },
-            "STRONG": {
-              "font-size": "16px"
-            },
-            "B": {
-              "font-size": "16px"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-u"
-        }
-      ]
-    },
-    "writeArticle.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Admin Write Post",
-        "order": 8
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Write an Article",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">POST ARTICLE!</a>",
-          "form": {
-            "action": "",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Article Title (+custom dropdown box topic)"
-              },
-              "email": {
-                "visible": false,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Article content..."
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-1g"
-        },
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#000000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/iconsm-1-128x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bruno's Dev Website</a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-v"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/footericon-265x125.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn:<a href=\"https://www.linkedin.com/in/yan-ham-cheung/\"> Yan Ham Cheung</a>",
-          "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "font-size": "14px",
-              "color": "#000000"
-            },
-            "STRONG": {
-              "font-size": "16px"
-            },
-            "B": {
-              "font-size": "16px"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-w"
-        }
-      ]
-    },
-    "seeContacts.html": {
-      "settings": {
-        "meta_descr": "Site Builder Description",
-        "title": "Admin See Forms",
-        "order": 9
-      },
-      "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#000000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/iconsm-1-128x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bruno's Dev Website</a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-z"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/footericon-265x125.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn:<a href=\"https://www.linkedin.com/in/yan-ham-cheung/\"> Yan Ham Cheung</a>",
-          "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "font-size": "14px",
-              "color": "#000000"
-            },
-            "STRONG": {
-              "font-size": "16px"
-            },
-            "B": {
-              "font-size": "16px"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-10"
-        }
-      ]
-    },
-    "account.html": {
-      "settings": {
-        "meta_descr": "Web Site Maker Description",
-        "title": "Account",
-        "order": 10
-      },
-      "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {
-              "name": "Roboto",
-              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "css": "'Roboto', sans-serif"
-            },
-            "fontColor": "#000000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/iconsm-1-128x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Bruno's Dev Website</a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-x"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Account Detail Change",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SAVE CHANGES</a>",
-          "form": {
-            "action": "",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "User name*"
-              },
-              "email": {
-                "visible": false,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "New User Password*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": ""
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-1h"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/footericon-265x125.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "text2": "<b>Contact me</b><br>Email 1: yh.cheung@uq.net.au <br>Email 2: brunocyh@gmail.com<br>LinkedIn:<a href=\"https://www.linkedin.com/in/yan-ham-cheung/\"> Yan Ham Cheung</a>",
-          "text3": "<p class=\"mbr-contacts__text\"><b>Qualifications</b></p><ul class=\"mbr-contacts__list\"><li>University of Queensland (Master)&nbsp;<br></li><li>Lancaster University (Bachelor)</li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "font-size": "14px",
-              "color": "#000000"
-            },
-            "STRONG": {
-              "font-size": "16px"
-            },
-            "B": {
-              "font-size": "16px"
-            },
-            "UL": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-y"
-        }
-      ]
-    },
     "blogList.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
@@ -2030,7 +1403,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"https://wordpress.com/post/brunocyhgithub.wordpress.com\">Write Article</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2217,7 +1590,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"login.html\">Write Article</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>About Me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"projects.html\" aria-expanded=\"false\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Projects</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\" aria-expanded=\"false\">Article Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Data Analysis</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Machine Learning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blogList.html\" aria-expanded=\"false\">Others</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default\" href=\"https://wordpress.com/post/brunocyhgithub.wordpress.com\">Write Article</a></li>",
           "_tags": [
             "Theme"
           ],
