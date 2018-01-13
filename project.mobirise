@@ -936,7 +936,7 @@
           },
           "title1": "Data Science and Analytics",
           "caption1": "Review my technical blogs / opinion on some of the latest data mining issues and algorithms.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://public-api.wordpress.com/rest/v1.1/sites/brunocyhgithub.wordpress.com/posts/?category=datascience&amp;fields=ID,title,date,content&amp;order_by=date\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://brunocyhgithub.wordpress.com/category/datascience/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -959,7 +959,7 @@
           },
           "title2": "Machine Learning",
           "caption2": "Machine learning is my favourite topic in AI, whenever something interesting is going on I will blog it down.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://public-api.wordpress.com/rest/v1.1/sites/brunocyhgithub.wordpress.com/posts/?category=machinelearning&amp;fields=ID,title,date,content&amp;order_by=date\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://brunocyhgithub.wordpress.com/category/machinelearning/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -982,7 +982,7 @@
           },
           "title3": "Life and Living",
           "caption3": "Life is short, why not enjoy it? Try to appreciate this world from different perspectives.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"https://public-api.wordpress.com/rest/v1.1/sites/brunocyhgithub.wordpress.com/posts/?category=life&amp;fields=ID,title,date,content&amp;order_by=date\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://brunocyhgithub.wordpress.com/category/life/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media4": {
             "image": {
               "active": true,
